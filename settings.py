@@ -1,0 +1,5 @@
+valid_email = 'gtqmvb@rambler.ru'
+valid_password = 'ja987321ss'
+#key = 'ea738148a1f19838e1c5d1413877f3691a3731380e733e877b0ae729'
+invalid_email = 'Booss@gmail.com'
+invalid_password = 'Ab123456'
